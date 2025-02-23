@@ -13,7 +13,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/OshibaAustin/oshiba](https://github.com/OshibaAustin/oshiba)
 
-- 💬 Ask me about **Data analysis**
+- 💬 Ask me about **Data analysis**[CovidVaccinations.xlsx](https://github.com/user-attachments/files/18929727/CovidVaccinations.xlsx)
+
 
 - 📫 How to reach me **oshiba.austin@gmail.com**
 
@@ -30,3 +31,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oshibaaustin&show_icons=true&locale=en&layout=compact" alt="oshibaaustin" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oshibaaustin&show_icons=true&locale=en" alt="oshibaaustin" /></p>
+[CovidVaccinations.xlsx](https://github.com/user-attachments/files/18929720/CovidVaccinations.xlsx)
+
