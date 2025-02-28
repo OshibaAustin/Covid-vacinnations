@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Austin oshiba</h1>
-<h3 align="center">A passionate data anaylyst based in the uk</h3>
+<h3 align="center">A passionate data anaylyst based in the uk and have a habit learning new skills, work on data and enjoy writing </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oshibaaustin&label=Profile%20views&color=0e75b6&style=flat" alt="oshibaaustin" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **oracle**
 
-- 🤝 I’m looking for help with **Mental health projects**
+- 🤝 I’m looking for help with **Health and communication projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/OshibaAustin/oshiba](https://github.com/OshibaAustin/oshiba)
 
